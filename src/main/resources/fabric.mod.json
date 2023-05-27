@@ -9,7 +9,7 @@
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/Julioxidop/SNMS"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/snms/icon.png",
@@ -23,7 +23,7 @@
 		"snms.mixins.json"
 	],
 	"depends": {
-		"fabricloader": ">=0.14.21",
+		"fabricloader": ">=0.14.19",
 		"minecraft": "~1.19.2",
 		"java": ">=17",
 		"fabric-api": "*"
